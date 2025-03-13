@@ -30,13 +30,13 @@ This system ensures that all reports are properly processed, minimizes spam, and
 Created by Dhika Nino.
 
 ## Screenshot
-Player Report
+
 ![image](https://github.com/user-attachments/assets/d97b5731-34c1-4047-80da-e9d1f0a13013)
-Admin Reports
+
 ![image](https://github.com/user-attachments/assets/7d065e18-62b9-4167-bcec-5b915f463971)
-Report Details
+
 ![image](https://github.com/user-attachments/assets/e625dafc-72c4-4953-8d70-3b02fa48c4de)
-Webhook
+
 ![image](https://github.com/user-attachments/assets/1db7068e-a175-46ae-9630-8effe5d29566)
 
 
