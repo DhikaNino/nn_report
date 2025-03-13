@@ -1,4 +1,4 @@
-# Nino Report System
+# [QBOX] Nino Report System
 
 A customizable reporting system tailored to server needs, making it easier for players to submit reports.
 
